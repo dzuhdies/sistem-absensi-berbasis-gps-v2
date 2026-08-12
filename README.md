@@ -95,7 +95,7 @@ HTTPS wajib digunakan agar kamera, GPS, service worker, dan PWA dapat bekerja pa
    Jika `.env.example` belum tersedia, buat `.env` dengan konfigurasi minimal berikut:
 
    ```env
-   APP_NAME="Absensi MagangHub Bunder"
+   APP_NAME="Absensi"
    APP_ENV=local
    APP_KEY=
    APP_DEBUG=true
@@ -156,7 +156,7 @@ HTTPS wajib digunakan agar kamera, GPS, service worker, dan PWA dapat bekerja pa
 Gunakan konfigurasi production berikut pada `.env`:
 
 ```env
-APP_NAME="Absensi MagangHub Bunder"
+APP_NAME="Absensi"
 APP_ENV=production
 APP_DEBUG=false
 APP_URL=https://absensi.example.com
