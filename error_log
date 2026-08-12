@@ -1,0 +1,18 @@
+[09-Jul-2026 14:28:36 UTC] PHP Warning:  require(/home/nmwbftpw/absensi.masimasa.my.id/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/nmwbftpw/absensi.masimasa.my.id/index.php on line 34
+[09-Jul-2026 14:28:36 UTC] PHP Warning:  require(/home/nmwbftpw/absensi.masimasa.my.id/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/nmwbftpw/absensi.masimasa.my.id/index.php on line 34
+[09-Jul-2026 14:28:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/nmwbftpw/absensi.masimasa.my.id/../vendor/autoload.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/nmwbftpw/absensi.masimasa.my.id/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/nmwbftpw/absensi.masimasa.my.id/index.php on line 34
+[09-Jul-2026 14:28:36 UTC] PHP Warning:  require(/home/nmwbftpw/absensi.masimasa.my.id/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/nmwbftpw/absensi.masimasa.my.id/index.php on line 34
+[09-Jul-2026 14:28:36 UTC] PHP Warning:  require(/home/nmwbftpw/absensi.masimasa.my.id/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/nmwbftpw/absensi.masimasa.my.id/index.php on line 34
+[09-Jul-2026 14:28:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/nmwbftpw/absensi.masimasa.my.id/../vendor/autoload.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/nmwbftpw/absensi.masimasa.my.id/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/nmwbftpw/absensi.masimasa.my.id/index.php on line 34
+[09-Jul-2026 14:28:39 UTC] PHP Warning:  require(/home/nmwbftpw/absensi.masimasa.my.id/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/nmwbftpw/absensi.masimasa.my.id/index.php on line 34
+[09-Jul-2026 14:28:39 UTC] PHP Warning:  require(/home/nmwbftpw/absensi.masimasa.my.id/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/nmwbftpw/absensi.masimasa.my.id/index.php on line 34
+[09-Jul-2026 14:28:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/nmwbftpw/absensi.masimasa.my.id/../vendor/autoload.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/nmwbftpw/absensi.masimasa.my.id/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/nmwbftpw/absensi.masimasa.my.id/index.php on line 34
