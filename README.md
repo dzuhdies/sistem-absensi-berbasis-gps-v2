@@ -1,4 +1,4 @@
-# Sistem Absensi MagangHub Bunder
+# Sistem Absensi Magang
 
 Aplikasi absensi peserta magang berbasis **Laravel 10**. Sistem mendukung absensi berbasis lokasi dan foto, pengajuan izin, pengelolaan pengguna berdasarkan peran, rekap data, unduhan Excel, serta pemasangan website sebagai aplikasi melalui PWA.
 
